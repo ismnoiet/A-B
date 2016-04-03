@@ -1,2 +1,2 @@
 #A-B
-A Node.js app to show some operations in different languages
+A Node.js app to show some basic operations in different languages(like variables and others).
